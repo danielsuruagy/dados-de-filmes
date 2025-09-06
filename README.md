@@ -41,8 +41,6 @@ Além disso, inclui exemplos de consultas SQL úteis para explorar os dados.
 ---
 
 ### **FilmesGenero**  
-*(Relação N:N entre filmes e gêneros)*  
-
 | Campo    | Tipo      | Chave | Descrição                       |
 |----------|----------|-------|---------------------------------|
 | Id       | int (PK) | PK    | Identificador da relação        |
@@ -52,8 +50,6 @@ Além disso, inclui exemplos de consultas SQL úteis para explorar os dados.
 ---
 
 ### **ElencoFilme**  
-*(Relação N:N entre atores e filmes, com papel)*  
-
 | Campo   | Tipo         | Chave | Descrição                        |
 |---------|-------------|-------|----------------------------------|
 | Id      | int (PK)    | PK    | Identificador da relação         |
