@@ -1,4 +1,4 @@
-# 🎬 Banco de Dados **Filmes**
+# Banco de Dados **Filmes**
 
 Este projeto cria e popula um banco de dados relacional chamado **Filmes**, contendo informações sobre **atores, filmes, gêneros e elencos**.  
 Além disso, inclui exemplos de consultas SQL úteis para explorar os dados.
